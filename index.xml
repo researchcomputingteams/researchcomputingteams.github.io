@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research Computing Teams</title>
-    <link>https://www.researchcomputingteams.org/</link>
+    <link>researchcomputingteams.github.io/</link>
     <description>Recent content on Research Computing Teams</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     
-	<atom:link href="https://www.researchcomputingteams.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="researchcomputingteams.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://www.researchcomputingteams.org/about/</link>
+      <link>researchcomputingteams.github.io/about/</link>
       <pubDate>Sun, 26 Jul 2020 09:54:51 -0400</pubDate>
       
-      <guid>https://www.researchcomputingteams.org/about/</guid>
+      <guid>researchcomputingteams.github.io/about/</guid>
       <description>Research Computing is a tough field that combines the challenges of many disciplines.
 Like IT or commercial software development, we need to deliver real usable tools to support our users; but like research, our projects are often extremely open-ended, with complexity coming not from unvalidated requirements but the uncertaintainty of the new, requiring experimentation and discovery. Like academia, we often work with team members who are trainees, not employees; like nonprofits we are called on to enact real changes with ongoing programmes or products while funded only by budgets dependent on multiple short-term grants.</description>
     </item>
     
     <item>
       <title>Jobs Leading Research Computing Teams</title>
-      <link>https://www.researchcomputingteams.org/jobboard/</link>
+      <link>researchcomputingteams.github.io/jobboard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.researchcomputingteams.org/jobboard/</guid>
+      <guid>researchcomputingteams.github.io/jobboard/</guid>
       <description>Research Computing is a tough field that combines the challenges of many disciplines, and managing research computing teams is a specialty. Here I keep track of jobs in that specialty; highlights are posted weekly in the Research Computing Teams Newsletter.
 Submit a job to have it added to the job board for free; listings will appear once they have been approved for relevance and as non-spam.
  </description>
@@ -34,10 +34,10 @@ Submit a job to have it added to the job board for free; listings will appear on
     
     <item>
       <title>The Research Computing Team Newsletter</title>
-      <link>https://www.researchcomputingteams.org/newsletter/</link>
+      <link>researchcomputingteams.github.io/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.researchcomputingteams.org/newsletter/</guid>
+      <guid>researchcomputingteams.github.io/newsletter/</guid>
       <description>.page-container a{ color: #1f21b5; } input[type=submit] { background-color: #1f21b5; border: none; color: white; padding: 7px 7px; text-decoration: none; cursor: pointer; border-radius: 16px; -moz-border-radius: 5px; webkit-border-radius: 5px; }  The RCT Newsletter started in Jan 2020, and covers all aspects of managing research computing teams. You can view previous posts here.
 The intended audience  Trained in or experienced with research Technically capable in R&amp;amp;D computing Responsible, or intending to be responsible, for managing or designing R&amp;amp;D computing teams or efforts Looking for information on and a community around managing R&amp;amp;D computing teams and efforts  The format  Weekly link roundups with occasional longer posts Occasional (no more than weekly) short emails with links Reply to any message (it&amp;rsquo;ll go directly to me and only to me) with thoughts, comments, and feedback  The content Feedback from subscribers will greatly shape the topics we cover.</description>
     </item>
