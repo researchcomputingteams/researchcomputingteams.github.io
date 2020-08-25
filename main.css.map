@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/ljdursi/Desktop/researchcomputingteams.org/rct",
+	"sourceRoot": "/Users/ljdursi/Desktop/researchcomputingteams.org/website",
 	"sources": [
 		"themes/hello-friend-ng/assets/scss/main.scss",
 		"themes/hello-friend-ng/assets/scss/_normalize.scss",
